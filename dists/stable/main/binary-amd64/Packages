@@ -1,0 +1,13 @@
+Package: cianna
+Version: 1.0.0.0
+Architecture: amd64
+Maintainer: David Cornu (david.cornu@obspm.fr)
+Depends: gcc, python3-dev, python3-numpy, python3-setuptools, libopenblas-dev
+Filename: pool/main/cianna_1.0.0.0-1_amd64.deb
+Size: 115742
+MD5sum: f647b28a21ca5e895acda95ea232dd2b
+SHA1: 087d7c07177f7efe4fc8ec2e1d8d9dc9390bed34
+SHA256: 6e2e0d9d5e90c2358fd92eb8b75c5a44072ce99aea80bbe52f65e6616011f03a
+Homepage: https://github.com/Deyht/CIANNA
+Description: CIANNA is a general-purpose deep learning framework primarly developed and used for astronomical data analysis.
+
